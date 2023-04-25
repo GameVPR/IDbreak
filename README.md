@@ -1,4 +1,4 @@
-## IDbreak
+## About IDbreak
 ![Activity](https://img.shields.io/github/commit-activity/w/gamevpr/idbreak?style=flat-square)
 ### What is IDbreak?
 + IDbreak is a lightning-fast identifier for big game & app developing companies.
